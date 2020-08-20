@@ -27,7 +27,7 @@ Les daremos una devolución personal a cada uno y además cargaremos una devoluc
 - Análisis de requerimientos en conjunto - Martes 11 de Agosto
 - Pre entrega (repositorio creado y avance hasta ese día pusheado) - Lunes 17 de Agosto
 - Feedback de pre entrega - Martes 18 y Miercoles 19 de Agosto
-- Entrega final - Viernes 21 de Agosto
+- Entrega final - Miercoles 26 de Agosto
 -----------------------------------------------------------------------
 - Seguimiento del proyecto con cada uno - Todos los días
 - Dudas y consultas - Todos los días
