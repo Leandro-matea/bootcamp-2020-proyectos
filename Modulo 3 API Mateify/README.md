@@ -49,7 +49,7 @@ A continuación se listan los requerimientos que no corresponden a como debe fun
 Se deberá crear una api para el manejo de usuarios y canciones. Los usuarios podrán tener canciones favoritas.
 Los usuarios deben tener un nombre, apellido, correo electrónico y edad.
 Las canciones deben tener el siguiente formato:
-            {
+         <code>   {
                 "name": String,
                 "album": String,
                 "duration": String,
@@ -58,6 +58,7 @@ Las canciones deben tener el siguiente formato:
                     "coverUrl": String
                 }
             }
+           </code>
 
 Por otra parte, se debe hacer una aplicación frontend en React, donde se muestre la lista de usuarios y al seleccionar un usuario, 
 se muestre el listado de sus canciones favoritas como muestra el diseño.
