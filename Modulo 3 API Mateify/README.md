@@ -53,10 +53,7 @@ Las canciones deben tener el siguiente formato:
                 "name": String,
                 "album": String,
                 "duration": String,
-                "artist": {
-                    "name": String
-                    "coverUrl": String
-                }
+                "artist": String
             }
            </code>
 
